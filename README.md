@@ -84,7 +84,7 @@ Truss was built with **security** as a core pillar. From the ground up, we’ve 
 ## 💡 **Get Started Today**  
 Take control of your tax-time sanity and experience the Truss difference!  
 
-👉 [**Book a Demo**](#)  
+👉 [**Book a Demo**](https://gettruss.io/#waitlist)  
 
 ---
 
